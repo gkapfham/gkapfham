@@ -6,7 +6,7 @@ def generate_readme():
     """Generate README.md"""
     console = Console()
     readme = Path("README.md")
-    readme.write_text("# Hello, World!")
+    readme.write_text("# 🚀Hi, I'm Gregory M. Kapfhammer!")
     console.print("README.md generated.")
 
 
