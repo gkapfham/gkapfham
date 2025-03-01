@@ -1,9 +1,9 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
 <span style="color: #000080; text-decoration-color: #000080">╭──────────────────── </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Professional Introduction</span><span style="color: #000080; text-decoration-color: #000080"> ─────────────────────╮</span>
 <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                    <span style="color: #000080; text-decoration-color: #000080">│</span>
-<span style="color: #000080; text-decoration-color: #000080">│</span> Hello, my name is <a href="https://www.gregorykapfhammer.com">Gregory M. Kapfhammer! I&#x27;m a faculty member in </a>  <span style="color: #000080; text-decoration-color: #000080">│</span>
-<span style="color: #000080; text-decoration-color: #000080">│</span> <a href="https://www.gregorykapfhammer.com">the Department of Computer and Information Science at Allegheny </a>   <span style="color: #000080; text-decoration-color: #000080">│</span>
-<span style="color: #000080; text-decoration-color: #000080">│</span> <a href="https://www.gregorykapfhammer.com">College. I&#x27;m a professor, researcher, engineer, and podcaster.</a>     <span style="color: #000080; text-decoration-color: #000080">│</span>
+<span style="color: #000080; text-decoration-color: #000080">│</span> Hello, my name is <a href="https://www.gregorykapfhammer.com">Gregory M. Kapfhammer!</a> I&#x27;m a faculty member in   <span style="color: #000080; text-decoration-color: #000080">│</span>
+<span style="color: #000080; text-decoration-color: #000080">│</span> the Department of Computer and Information Science at Allegheny    <span style="color: #000080; text-decoration-color: #000080">│</span>
+<span style="color: #000080; text-decoration-color: #000080">│</span> College. I&#x27;m a professor, researcher, engineer, and podcaster.     <span style="color: #000080; text-decoration-color: #000080">│</span>
 <span style="color: #000080; text-decoration-color: #000080">│</span>                                                                    <span style="color: #000080; text-decoration-color: #000080">│</span>
 <span style="color: #000080; text-decoration-color: #000080">╰────────────────────────────────────────────────────────────────────╯</span>
 

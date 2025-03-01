@@ -31,7 +31,7 @@ software_tree.add("Cellveyor", guide_style="green")
 software_tree.add("RepoRover", guide_style="green")
 
 about = """\
-\nHello, my name is [link=https://www.gregorykapfhammer.com]Gregory M. Kapfhammer! I'm a faculty member in the Department of Computer and Information Science at Allegheny College. I'm a professor, researcher, engineer, and podcaster.
+\nHello, my name is [link=https://www.gregorykapfhammer.com]Gregory M. Kapfhammer![/link] I'm a faculty member in the Department of Computer and Information Science at Allegheny College. I'm a professor, researcher, engineer, and podcaster.
 """
 
 panel = Panel.fit(
