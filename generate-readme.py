@@ -60,7 +60,7 @@ panel = Panel.fit(
     about,
     box=box.ROUNDED,
     border_style="blue",
-    title="[b]Professional Introduction",
+    title="Professional Introduction",
     width=70,
 )
 
@@ -70,6 +70,8 @@ console.print()
 console.print(Columns([teaching_tree, research_tree], width=30))
 console.print()
 console.print(Columns([software_tree, podcast_tree], width=30))
+console.print()
+console.print("🤖 Want to know how I made this content? Clone this GitHub repository: [link=https://github.com/gkapfham/gkapfham]gkapfham/gkapfham[/link]")
 console.print()
 console.print(
     "🚧 Run this command to generate the README.md file: uv run --with rich generate-readme.py"
