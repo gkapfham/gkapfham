@@ -10,9 +10,9 @@ teaching_tree = Tree(
     "🎉 Teaching",
     guide_style="bold red",
 )
-teaching_tree.add("Algorithm Analysis", guide_style="green")
-teaching_tree.add("Data Structures", guide_style="green")
-teaching_tree.add("Software Engineering", guide_style="green")
+teaching_tree.add("[link=https://algorithmology.org/]Algorithm Analysis[/link]", guide_style="green")
+teaching_tree.add("[link=https://securitysynapse.org/]Computer Security[/link]", guide_style="green")
+teaching_tree.add("[link=https://developerdevelopment.com/]Software Engineering[/link]", guide_style="green")
 
 research_tree = Tree(
     "🔬 Research",
