@@ -8,9 +8,9 @@
 <span style="color: #000080; text-decoration-color: #000080">╰────────────────────────────────────────────────────────────────────╯</span>
 
 🎉 Teaching                     🔬 Research                                                   
-<span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Algorithm Analysis          <span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Regression Testing                                        
-<span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Data Structures             <span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Mutation Testing                                          
-<span style="color: #800000; text-decoration-color: #800000">┗━━ </span>Software Engineering        <span style="color: #800000; text-decoration-color: #800000">┗━━ </span>Flaky Tests                                               
+<span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Algorithm Analysis          <span style="color: #800000; text-decoration-color: #800000">┣━━ </span><a href="https://www.gregorykapfhammer.com/research/papers/#category=test-suite%20prioritization">Regression Testing</a>                                        
+<span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Data Structures             <span style="color: #800000; text-decoration-color: #800000">┣━━ </span><a href="https://www.gregorykapfhammer.com/research/papers/#category=mutation%20testing">Mutation Testing</a>                                          
+<span style="color: #800000; text-decoration-color: #800000">┗━━ </span>Software Engineering        <span style="color: #800000; text-decoration-color: #800000">┗━━ </span><a href="https://www.gregorykapfhammer.com/research/papers/#category=flaky%20tests">Flaky Tests</a>                                               
 
 🛠️ Software                      🎉 Teaching                                                   
 <span style="color: #800000; text-decoration-color: #800000">┣━━ </span>GatorGrader                 <span style="color: #800000; text-decoration-color: #800000">┣━━ </span>Algorithm Analysis                                        

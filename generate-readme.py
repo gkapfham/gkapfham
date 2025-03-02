@@ -18,9 +18,9 @@ research_tree = Tree(
     "🔬 Research",
     guide_style="bold red",
 )
-research_tree.add("Regression Testing", guide_style="green")
-research_tree.add("Mutation Testing", guide_style="green")
-research_tree.add("Flaky Tests", guide_style="green")
+research_tree.add("[link=https://www.gregorykapfhammer.com/research/papers/#category=test-suite%20prioritization]Regression Testing[/link]", guide_style="green")
+research_tree.add("[link=https://www.gregorykapfhammer.com/research/papers/#category=mutation%20testing]Mutation Testing[/link]", guide_style="green")
+research_tree.add("[link=https://www.gregorykapfhammer.com/research/papers/#category=flaky%20tests]Flaky Tests[/link]", guide_style="green")
 
 software_tree = Tree(
     "🛠️ Software",
